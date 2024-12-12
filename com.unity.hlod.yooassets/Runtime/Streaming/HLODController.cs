@@ -6,7 +6,7 @@ using Object = UnityEngine.Object;
 
 namespace Unity.HLODSystem.Streaming
 {
-    public class GameFrameworkHLODController : HLODControllerBase
+    public class HLODController : HLODControllerBase
     {
         public interface ICustomLoader
         {

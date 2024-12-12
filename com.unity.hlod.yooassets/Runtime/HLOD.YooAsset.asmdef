@@ -1,9 +1,8 @@
 {
-    "name": "HLOD.GameFramework",
+    "name": "HLOD.YooAsset",
     "rootNamespace": "",
     "references": [
         "HLOD",
-        "UnityGameFramework.Runtime",
         "YooAsset"
     ],
     "includePlatforms": [],
